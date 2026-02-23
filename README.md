@@ -15,5 +15,5 @@ Ele não representa uma empresa real, mas serve como **exemplo de portfólio** e
 
 ## 🖥️ Como rodar localmente
 1. Clone este repositório:
-   ```bash
-   git clone https://belle2007m.github.io/aurora-digital/
+   
+https://belle2007m.github.io/aurora-digital/
